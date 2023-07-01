@@ -1,0 +1,3150 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="x-ua-compatible" content="IE=edge">
+	<meta name="author" content="Ralph Manns">
+	<meta name="description" content="Osiki Collections. Clothes, shoes, jewellery and more">
+
+	<!-- Font Imports -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Montserrat:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+
+	<!-- Core Style -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Font Icons -->
+	<link rel="stylesheet" href="css/font-icons.css">
+
+	<!-- Plugins/Components CSS -->
+	<!-- <link rel="stylesheet" href="css/swiper.css"> -->
+	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
+	<link rel="stylesheet" href="include/rs-plugin/css/settings.css" media="screen">
+	<link rel="stylesheet" href="include/rs-plugin/css/layers.css">
+	<link rel="stylesheet" href="include/rs-plugin/css/navigation.css">
+	<link rel="stylesheet" href="include/rs-plugin/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+	<link rel="stylesheet" href="include/rs-plugin/fonts/font-awesome/css/font-awesome.css">
+	<link rel="stylesheet" media="all" href="include/rs-plugin/css/addons/revolution.addon.bubblemorph.css">
+
+	<!-- Niche Demos -->
+	<link rel="stylesheet" href="demos/ecommerce/ecommerce.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Document Title
+	============================================= -->
+	<title>Osiki Collecions | Nungua, Accra</title>
+
+</head>
+
+<body class="stretched">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper">
+
+		<!-- Top Bar
+		============================================= -->
+		<!-- <div id="top-bar" class="dark bg-contrast-100">
+			<div class="container py-3">
+				<div class="row text-center mb-0">
+					<span class="col">Back to the future of awesome Bags: Introducing canvas market. <a href="#">Shop Now</a></span>
+					<a href="#" id="close-bar" class="col-auto ms-auto border-bottom-0"><i class="bi-x-lg"></i></a>
+				</div>
+			</div>
+		</div> -->
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="full-header no-sticky" data-menu-padding="30">
+			<div id="header-wrap">
+				<div class="container">
+					<div class="header-row align-items-lg-stretch">
+
+						<!-- Logo
+						============================================= -->
+						<div id="logo">
+							<a href="#">
+								<img class="logo-default" srcset="demos/ecommerce/images/logo.png, demos/ecommerce/images/logo@2x.png 2x" src="demos/ecommerce/images/logo@2x.png" alt="Canvas Logo">
+							</a>
+						</div><!-- #logo end -->
+
+						<div class="header-misc align-items-lg-stretch">
+
+							<!-- Top Cart
+							============================================= -->
+							<!-- <div id="top-cart" class="header-misc-icon">
+								<a href="#" id="top-cart-trigger"><i class="uil uil-shopping-bag"></i><span class="top-cart-number">5</span></a>
+								<div class="top-cart-content">
+									<div class="top-cart-title">
+										<h4>Shopping Cart</h4>
+									</div>
+									<div class="top-cart-items">
+										<div class="top-cart-item">
+											<div class="top-cart-item-image">
+												<a href="#"><img src="images/shop/small/1.jpg" alt="Blue Round-Neck Tshirt"></a>
+											</div>
+											<div class="top-cart-item-desc">
+												<div class="top-cart-item-desc-title">
+													<a href="#">Blue Round-Neck Tshirt with a Button</a>
+													<span class="top-cart-item-price d-block">$19.99</span>
+												</div>
+												<div class="top-cart-item-quantity">x 2</div>
+											</div>
+										</div>
+										<div class="top-cart-item">
+											<div class="top-cart-item-image">
+												<a href="#"><img src="images/shop/small/6.jpg" alt="Light Blue Denim Dress"></a>
+											</div>
+											<div class="top-cart-item-desc">
+												<div class="top-cart-item-desc-title">
+													<a href="#">Light Blue Denim Dress</a>
+													<span class="top-cart-item-price d-block">$24.99</span>
+												</div>
+												<div class="top-cart-item-quantity">x 3</div>
+											</div>
+										</div>
+									</div>
+									<div class="top-cart-action">
+										<span class="top-checkout-price">$114.95</span>
+										<a href="#" class="button button-3d button-small m-0">View Cart</a>
+									</div>
+								</div>
+							</div> -->
+							<!-- #top-cart end -->
+
+							<!-- Top Account
+							============================================= -->
+							<!-- <div class="header-misc-icon">
+								<a href="#"><i class="bi-person"></i></a>
+							</div> -->
+
+							<!-- Top Search
+							============================================= -->
+							<!-- <div id="top-search" class="header-misc-icon">
+								<a href="#" id="top-search-trigger"><i class="uil uil-search"></i><i class="bi-x-lg"></i></a>
+							</div> -->
+							<!-- #top-search end -->
+
+						</div>
+
+						<div class="primary-menu-trigger">
+							<button class="cnvs-hamburger" type="button" title="Open Mobile Menu">
+								<span class="cnvs-hamburger-box"><span class="cnvs-hamburger-inner"></span></span>
+							</button>
+						</div>
+
+						<!-- Primary Navigation
+						============================================= -->
+						<nav class="primary-menu style-ecommerce menu-spacing-margin">
+
+							<ul class="menu-container">
+								<li class="menu-item current"><a class="menu-link" href="#"><div>Home</div></a></li>
+								<li class="menu-item mega-menu"><a class="menu-link" href="#categories"><div>Categories</div></a>
+									<div class="mega-menu-content mega-menu-style-2" style="background-image: url('images/shop/shop-menu.jpg'); background-repeat: no-repeat; background-position: right bottom;">
+										<div class="container">
+											<div class="row">
+												<!-- <ul class="sub-menu-container mega-menu-column col-xl-2 col-lg-3">
+													<li class="menu-item">
+														<div class="widget">
+
+															<div class="portfolio-item">
+																<div class="portfolio-image">
+																	<a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a>
+																	<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+																	<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+																</div>
+																<div class="portfolio-desc pb-0">
+																	<div>
+																		<h3><a href="#">Leather Bag</a></h3>
+																		<span class="mt-0"><a href="#">Messenger Bag</a></span>
+																		<div class="rating-stars">
+																			<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+																		</div>
+																	</div>
+																	<div class="item-price">
+																		<span>&euro;29.99</span>
+																	</div>
+																</div>
+															</div>
+
+														</div>
+													</li>
+												</ul> -->
+												<!-- <ul class="sub-menu-container mega-menu-column col-lg-3">
+													<li class="menu-item">
+														<div class="widget">
+
+															<h4 class="highlight-me">Last Viewed Items</h4>
+
+															<div class="posts-sm row col-mb-30" id="recent-shop-list-sidebar">
+																<div class="entry col-12">
+																	<div class="grid-inner row g-0">
+																		<div class="col-auto">
+																			<div class="entry-image">
+																				<a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Image"></a>
+																			</div>
+																		</div>
+																		<div class="col ps-3">
+																			<div class="entry-title">
+																				<h4><a href="#">Women's Hand Bag</a></h4>
+																			</div>
+																			<div class="entry-meta no-separator">
+																				<ul class="sub-menu-container">
+																					<li class="color">$15</li>
+																					<li class="menu-item"><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i></li>
+																				</ul>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+
+																<div class="entry col-12">
+																	<div class="grid-inner row g-0">
+																		<div class="col-auto">
+																			<div class="entry-image">
+																				<a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Image"></a>
+																			</div>
+																		</div>
+																		<div class="col ps-3">
+																			<div class="entry-title">
+																				<h4><a href="#">Laptop Bag</a></h4>
+																			</div>
+																			<div class="entry-meta no-separator">
+																				<ul class="sub-menu-container">
+																					<li class="color">$19</li>
+																					<li class="menu-item"><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i><i class="bi-star"></i><i class="bi-star"></i></li>
+																				</ul>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+
+																<div class="entry col-12">
+																	<div class="grid-inner row g-0">
+																		<div class="col-auto">
+																			<div class="entry-image">
+																				<a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Image"></a>
+																			</div>
+																		</div>
+																		<div class="col ps-3">
+																			<div class="entry-title">
+																				<h4><a href="#">College Backpack</a></h4>
+																			</div>
+																			<div class="entry-meta no-separator">
+																				<ul class="sub-menu-container">
+																					<li class="color">$19.99</li>
+																					<li class="menu-item"><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i><i class="bi-star"></i></li>
+																				</ul>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+
+														</div>
+													</li>
+												</ul> -->
+												<ul class="sub-menu-container mega-menu-small col-lg-4">
+													<li class="menu-item">
+													<!-- <li class="menu-item mega-menu-title"><a class="menu-link" href="#categories"><div>Categories</div></a> -->
+														<!-- <ul class="sub-menu-container"> -->
+														<ul></ul>
+															<li class="menu-item"><a class="menu-link" href="#jewellery"><div>Jewellery</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#shirts"><div>Shirts</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#jeans"><div>Jeans, Shorts &amp; Trousers</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#suits"><div>Suits</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#tracksuits"><div>Tracksuits</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#sneakers"><div>Sneakers</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#slippers"><div>Slippers</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#caps"><div>Caps</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#gadges"><div>Mobile Gadges &amp; more</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#parfume"><div>Parfume</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#watches"><div>Watches</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#others"><div>Others</div></a></li>
+														</ul>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</li>
+								<!-- <li class="menu-item mega-menu mega-menu-small"><a class="menu-link" href="#"><div>Women</div></a>
+									<div class="mega-menu-content mega-menu-style-2">
+										<div class="container">
+											<div class="row">
+												<ul class="sub-menu-container mega-menu-column col-lg-6">
+													<li class="menu-item mega-menu-title"><a class="menu-link" href="#"><div>Footwear</div></a>
+														<ul class="sub-menu-container">
+															<li class="menu-item"><a class="menu-link" href="#"><div>Casual Shoes</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Formal Shoes</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Sports shoes</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Flip Flops</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Slippers</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Sports Sandals</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Party Shoes</div></a></li>
+														</ul>
+													</li>
+												</ul>
+												<ul class="sub-menu-container mega-menu-column col-lg-6">
+													<li class="menu-item mega-menu-title"><a class="menu-link" href="#"><div>Clothing</div></a>
+														<ul class="sub-menu-container">
+															<li class="menu-item"><a class="menu-link" href="#"><div>Casual Shirts</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>T-Shirts</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Collared Tees</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Pants / Trousers</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Ethnic Wear</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Jeans</div></a></li>
+															<li class="menu-item"><a class="menu-link" href="#"><div>Sweamwear</div></a></li>
+														</ul>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</li>-->
+								<!-- <li class="menu-item"><a class="menu-link" href="#"><div>Accessories</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#"><div>Sale</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#"><div>Blog</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#"><div>Contact</div></a></li> -->
+							</ul>
+
+						</nav><!-- #primary-menu end -->
+
+						<!-- <form class="top-search-form" action="search.html" method="get">
+							<input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter.." autocomplete="off">
+						</form> -->
+
+					</div>
+				</div>
+			</div>
+			<div class="header-wrap-clone"></div>
+		</header><!-- #header end -->
+
+		<!-- Slider
+		============================================= -->
+		<section id="slider" class="slider-element revslider-wrap include-header">
+
+			<div id="rev_slider_225_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="fashion-header70" data-source="gallery" style="margin:0px auto;background:#dddddd;padding:0px;margin-top:0px;margin-bottom:0px;">
+			<!-- START REVOLUTION SLIDER 5.4.8.1 fullwidth mode -->
+				<div id="rev_slider_225_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8.1">
+					<ul>	<!-- SLIDE  -->
+						<li data-index="rs-585" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="include/rs-plugin/demos/assets/images/320x200_fashion5.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+							<!-- MAIN IMAGE -->
+							<img src="include/rs-plugin/demos/assets/images/fashion5.jpg"  alt="Image"  data-bgposition="left top" data-kenburns="on" data-duration="3000" data-ease="Power4.easeOut" data-scalestart="107" data-scaleend="107" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="-300 0" data-bgparallax="8" class="rev-slidebg" data-no-retina>
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 1 -->
+							<div class="tp-caption tp-shape tp-shapewrapper tp-bubblemorph  rs-parallaxlevel-11"
+								 id="slide-585-layer-14"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+											data-fontweight="['500','100','100','100']"
+								data-width="['800','700','600','600']"
+								data-height="['800','700','600','600']"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-bubblesbg="#d2a17b"
+								data-numbubbles="9|7|7|inherit"
+								data-bubblesbufferx="125|100|100|inherit"
+								data-bubblesbuffery="125|100|100|inherit"
+								data-bubblesspeedx="0.15|0.15|0.15|0.15"
+								data-bubblesspeedy="0.15|0.15|0.15|0.15"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":100,"speed":2000,"frame":"0","from":"x:left(R);sX:1;sY:1;opacity:1;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":600,"frame":"999","to":"x:right(R);sX:1;sY:1;opacity:1;","ease":"Power4.easeIn"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+								data-blendmode="exclusion"
+
+								style="z-index: 5;background-color:rgb(210,161,123);"> </div>
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-585-layer-12"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+											data-width="['400','400','360','360']"
+								data-height="['500','500','460','460']"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":100,"speed":1000,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:[-100%];y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 6;"> </div>
+
+							<!-- LAYER NR. 3 -->
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-585-layer-7"
+								 data-x="['center','center','center','center']" data-hoffset="['-1','-1','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-170','-170','-170','-170']"
+											data-width="none"
+								data-height="none"
+								data-whitespace="nowrap"
+
+								data-type="image"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":200,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 7;"><img src="include/rs-plugin/demos/assets/images/zigzag-moustache-1.png" alt="Image" data-ww="['60px','60px','50px','50px']" data-hh="['60px','60px','50px','50px']" data-no-retina> </div>
+
+							<!-- LAYER NR. 4 -->
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-585-layer-4"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-20','-20','-30','-30']"
+											data-fontsize="['50','50','30','30']"
+								data-lineheight="['80','80','60','60']"
+								data-width="400"
+								data-height="none"
+								data-whitespace="normal"
+
+								data-type="text"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 8; min-width: 400px; max-width: 400px; white-space: normal; font-size: 50px; line-height: 80px; font-weight: 500; color: #ffffff; letter-spacing: 20px;font-family:Oswald;text-transform:uppercase;">Summer<br>
+					Sale<br>
+					-50% </div>
+
+							<!-- LAYER NR. 5 -->
+							<div class="tp-caption rev-btn  tp-resizeme"
+								 id="slide-585-layer-8"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['160','160','140','140']"
+											data-letterspacing="['5','5','10','10']"
+								data-width="['280','280','260','260']"
+								data-height="none"
+								data-whitespace="nowrap"
+
+								data-type="button"
+								data-actions='[{"event":"click","action":"scrollbelow","offset":"","delay":"","speed":"1000","ease":"Power1.easeInOut"}]'
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"},{"frame":"hover","speed":"200","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,0,0);bg:rgb(255,255,255);"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[5,5,5,5]"
+								data-blendmode="screen"
+
+								style="z-index: 9; min-width: 280px; max-width: 280px; white-space: nowrap; font-size: 17px; line-height: 60px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: 5px;font-family:Oswald;border-color:rgb(255,255,255);border-style:solid;border-width:2px 2px 2px 2px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SHOP NOW </div>
+
+							<!-- LAYER NR. 6 -->
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-585-layer-16"
+								 data-x="['center','center','center','center']" data-hoffset="['260','260','260','160']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-230','-230','-230','-230']"
+											data-width="150"
+								data-height="150"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":700,"speed":1000,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:[-100%];y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 10;background-color:rgb(255,255,255);border-radius:100px 100px 100px 100px;">
+					<div class="rs-looped rs-pulse"  data-easing="Power1.easeOut" data-speed="1" data-zoomstart="1" data-zoomend="1.05"> </div></div>
+
+							<!-- LAYER NR. 7 -->
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-585-layer-17"
+								 data-x="['center','center','center','center']" data-hoffset="['260','260','260','160']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-229','-229','-229','-228']"
+											data-width="150"
+								data-height="none"
+								data-whitespace="normal"
+
+								data-type="text"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":800,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 11; min-width: 150px; max-width: 150px; white-space: normal; font-size: 20px; line-height: 30px; font-weight: 500; color: #000000; letter-spacing: 3px;font-family:Oswald;text-transform:uppercase;">ONLY UNTIL<br>10.01.18 </div>
+						</li>
+						<!-- SLIDE  -->
+						<li data-index="rs-586" class="dark" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="include/rs-plugin/demos/assets/images/320x200_fashion4.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+							<!-- MAIN IMAGE -->
+							<img src="include/rs-plugin/demos/assets/images/fashion4.jpg"  alt="Image"  data-bgposition="left top" data-kenburns="on" data-duration="3000" data-ease="Power4.easeOut" data-scalestart="107" data-scaleend="107" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="-300 0" data-bgparallax="8" class="rev-slidebg" data-no-retina>
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 8 -->
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-586-layer-12"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+											data-width="['500','400','360','360']"
+								data-height="['500','500','460','460']"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":100,"speed":1000,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:[-100%];y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 5;"> </div>
+
+							<!-- LAYER NR. 9 -->
+							<div class="tp-caption tp-shape tp-shapewrapper tp-bubblemorph  rs-parallaxlevel-3"
+								 id="slide-586-layer-14"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+											data-fontweight="['400','100','100','100']"
+								data-width="['800','700','600','600']"
+								data-height="['800','700','600','600']"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-bubblesbg="#cd8088"
+								data-numbubbles="9|7|7|inherit"
+								data-bubblesbufferx="125|100|100|inherit"
+								data-bubblesbuffery="125|100|100|inherit"
+								data-bubblesspeedx="0.15|0.15|0.15|0.15"
+								data-bubblesspeedy="0.15|0.15|0.15|0.15"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":100,"speed":2000,"frame":"0","from":"x:left(R);","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":600,"frame":"999","to":"x:right(R);","ease":"Power4.easeIn"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+								data-blendmode="exclusion"
+
+								style="z-index: 6;background-color:rgb(205,128,136);"> </div>
+
+							<!-- LAYER NR. 10 -->
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-586-layer-7"
+								 data-x="['center','center','center','center']" data-hoffset="['1','1','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-170','-170','-170','-170']"
+											data-width="none"
+								data-height="none"
+								data-whitespace="nowrap"
+
+								data-type="image"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":200,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 7;"><img src="include/rs-plugin/demos/assets/images/zigzag-moustache-1.png" alt="Image" data-ww="['60px','60px','50px','50px']" data-hh="['60px','60px','50px','50px']" data-no-retina> </div>
+
+							<!-- LAYER NR. 11 -->
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-586-layer-4"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-20','-20','-30','-30']"
+											data-fontsize="['50','50','30','30']"
+								data-lineheight="['80','80','60','60']"
+								data-width="['500','500','400','400']"
+								data-height="none"
+								data-whitespace="normal"
+
+								data-type="text"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 8; min-width: 500px; max-width: 500px; white-space: normal; font-size: 50px; line-height: 80px; font-weight: 500; color: #ffffff; letter-spacing: 20px;font-family:Oswald;text-transform:uppercase;">PLAID COSTUMES<br>FROM $149 </div>
+
+							<!-- LAYER NR. 12 -->
+							<div class="tp-caption rev-btn  tp-resizeme"
+								 id="slide-586-layer-8"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['160','160','140','140']"
+											data-letterspacing="['5','5','10','10']"
+								data-width="['280','280','260','260']"
+								data-height="none"
+								data-whitespace="nowrap"
+
+								data-type="button"
+								data-actions='[{"event":"click","action":"scrollbelow","offset":"","delay":"","speed":"1000","ease":"Power1.easeInOut"}]'
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"},{"frame":"hover","speed":"200","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,0,0);bg:rgb(255,255,255);"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[5,5,5,5]"
+								data-blendmode="screen"
+
+								style="z-index: 9; min-width: 280px; max-width: 280px; white-space: nowrap; font-size: 17px; line-height: 60px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: 5px;font-family:Oswald;border-color:rgb(255,255,255);border-style:solid;border-width:2px 2px 2px 2px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SHOP NOW </div>
+						</li>
+						<!-- SLIDE  -->
+						<li data-index="rs-587" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="include/rs-plugin/demos/assets/images/320x200_fashion3.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+							<!-- MAIN IMAGE -->
+							<img src="include/rs-plugin/demos/assets/images/fashion3.jpg"  alt="Image"  data-bgposition="left center" data-kenburns="on" data-duration="3000" data-ease="Power4.easeOut" data-scalestart="107" data-scaleend="107" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="-300 0" data-bgparallax="8" class="rev-slidebg" data-no-retina>
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 13 -->
+							<div class="tp-caption tp-shape tp-shapewrapper tp-bubblemorph  rs-parallaxlevel-11"
+								 id="slide-587-layer-14"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+											data-fontweight="['500','100','100','100']"
+								data-width="['800','700','600','600']"
+								data-height="['800','700','600','600']"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-bubblesbg="#642749"
+								data-numbubbles="9|7|7|inherit"
+								data-bubblesbufferx="125|100|100|inherit"
+								data-bubblesbuffery="125|100|100|inherit"
+								data-bubblesspeedx="0.15|0.15|0.15|0.15"
+								data-bubblesspeedy="0.15|0.15|0.15|0.15"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":100,"speed":2000,"frame":"0","from":"x:left(R);","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":600,"frame":"999","to":"x:right(R);","ease":"Power4.easeIn"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+								data-blendmode="exclusion"
+
+								style="z-index: 5;background-color:rgb(100,39,73);"> </div>
+
+							<!-- LAYER NR. 14 -->
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme rs-parallaxlevel-11"
+								 id="slide-587-layer-12"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+											data-width="['400','400','360','360']"
+								data-height="['500','500','460','460']"
+								data-whitespace="nowrap"
+
+								data-type="shape"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":100,"speed":1000,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:[-100%];y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 6;"> </div>
+
+							<!-- LAYER NR. 15 -->
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
+								 id="slide-587-layer-7"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-170','-170','-170','-170']"
+											data-width="none"
+								data-height="none"
+								data-whitespace="nowrap"
+
+								data-type="image"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":200,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['inherit','inherit','inherit','inherit']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 7;"><img src="include/rs-plugin/demos/assets/images/zigzag-moustache-1.png" alt="Image" data-ww="['60px','60px','50px','50px']" data-hh="['60px','60px','50px','50px']" data-no-retina> </div>
+
+							<!-- LAYER NR. 16 -->
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-11"
+								 id="slide-587-layer-4"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-20','-20','-30','-30']"
+											data-fontsize="['50','50','30','30']"
+								data-lineheight="['80','80','60','60']"
+								data-width="['600','600','500','500']"
+								data-height="none"
+								data-whitespace="normal"
+
+								data-type="text"
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+
+								style="z-index: 8; min-width: 600px; max-width: 600px; white-space: normal; font-size: 50px; line-height: 80px; font-weight: 500; color: #ffffff; letter-spacing: 20px;font-family:Oswald;text-transform:uppercase;">MANY<br>
+					SEASONAL<br>
+					SPECIALS </div>
+
+							<!-- LAYER NR. 17 -->
+							<div class="tp-caption rev-btn  tp-resizeme rs-parallaxlevel-11"
+								 id="slide-587-layer-8"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['160','160','140','140']"
+											data-letterspacing="['5','5','10','10']"
+								data-width="['280','280','260','260']"
+								data-height="none"
+								data-whitespace="nowrap"
+
+								data-type="button"
+								data-actions='[{"event":"click","action":"scrollbelow","offset":"","delay":"","speed":"1000","ease":"Power1.easeInOut"}]'
+								data-basealign="slide"
+								data-responsive_offset="on"
+
+								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"x:[100%];opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"x:[-100%];","mask":"x:[100%];y:inherit;s:inherit;e:inherit;","ease":"Power4.easeInOut"},{"frame":"hover","speed":"200","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,0,0);bg:rgb(255,255,255);"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[5,5,5,5]"
+								data-blendmode="screen"
+
+								style="z-index: 9; min-width: 280px; max-width: 280px; white-space: nowrap; font-size: 17px; line-height: 60px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: 5px;font-family:Oswald;border-color:rgb(255,255,255);border-style:solid;border-width:2px 2px 2px 2px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">SHOP NOW </div>
+						</li>
+					</ul>
+					<div class="tp-bannertimer" style="height: 5px; background: rgba(255,255,255,0.5);"></div>	</div>
+					</div><!-- END REVOLUTION SLIDER -->
+
+		</section>
+		<!-- <section id="slider" class="slider-element swiper_wrapper min-vh-40 min-vh-md-75" data-autoplay="9000" data-speed="800" data-loop="true" data-grab="false">
+
+			<div class="swiper-container swiper-parent">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<div class="container">
+							<div class="slider-caption" style="margin-top: -30px;">
+								<div class="emphasis-title mb-0">
+									<h2 class="mb-5 fw-bold" style="max-width: 600px; font-size: 80px; font-family: 'Montserrat'; line-height: 1.2;">We Create<br>diff. Websites</h2>
+
+									<p class="lead mt-4 d-none d-md-block" style="max-width: 600px; font-family: 'Poppins'; color: #999; font-size: 18px;">Competently reintermediate user friendly scenarios after global synergy. Globally build compelling niche markets rather than bricks-and-clicks alignments. Continually revolutionize interactive strategic theme.</p>
+								</div>
+							</div>
+						</div>
+						<div class="slide-number font-primary">O1</div>
+						<div class="swiper-slide-bg" style="background: #FFF url('demos/ecommerce/images/slider/1.jpg') no-repeat center right; background-size: auto 100%;"></div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container">
+							<div class="slider-caption" style="margin-top: -30px;">
+								<div class="emphasis-title mb-0">
+									<h2 class="mb-5 fw-bold" style="max-width: 600px; font-size: 80px; font-family: 'Montserrat'; line-height: 1.2;">We Create<br>diff. Designs</h2>
+
+									<p class="lead mt-4 d-none d-md-block" style="max-width: 600px; font-family: 'Poppins'; color: #999; font-size: 18px;">Competently reintermediate user friendly scenarios after global synergy. Globally build compelling niche markets rather than bricks-and-clicks alignments. Continually revolutionize interactive strategic theme.</p>
+								</div>
+							</div>
+						</div>
+						<div class="slide-number font-primary">O2</div>
+						<div class="swiper-slide-bg" style="background: #FFF url('demos/ecommerce/images/slider/2.jpg') no-repeat center right; background-size: auto 100%;"></div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container">
+							<div class="slider-caption" style="margin-top: -30px;">
+								<div class="emphasis-title mb-0">
+									<h2 class="mb-5 fw-bold" style="max-width: 600px; font-size: 80px; font-family: 'Montserrat'; line-height: 1.2;">We Create<br>diff. Layouts</h2>
+
+									<p class="lead mt-4 d-none d-md-block" style="max-width: 600px; font-family: 'Poppins'; color: #999; font-size: 18px;">Competently reintermediate user friendly scenarios after global synergy. Globally build compelling niche markets rather than bricks-and-clicks alignments. Continually revolutionize interactive strategic theme.</p>
+								</div>
+							</div>
+						</div>
+						<div class="slide-number font-primary">O3</div>
+						<div class="swiper-slide-bg" style="background: #FFF url('demos/ecommerce/images/slider/3.jpg') no-repeat center right; background-size: auto 100%;"></div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container">
+							<div class="slider-caption" style="margin-top: -30px;">
+								<div class="emphasis-title mb-0">
+									<h2 class="mb-5 fw-bold" style="max-width: 600px; font-size: 80px; font-family: 'Montserrat'; line-height: 1.2;">We Create<br>diff. Mindset</h2>
+
+									<p class="lead mt-4 d-none d-md-block" style="max-width: 600px; font-family: 'Poppins'; color: #999; font-size: 18px;">Competently reintermediate user friendly scenarios after global synergy. Globally build compelling niche markets rather than bricks-and-clicks alignments. Continually revolutionize interactive strategic theme.</p>
+								</div>
+							</div>
+						</div>
+						<div class="slide-number font-primary">O4</div>
+						<div class="swiper-slide-bg" style="background: #FFF url('demos/ecommerce/images/slider/4.jpg') no-repeat center right; background-size: auto 100%;"></div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container">
+							<div class="slider-caption" style="margin-top: -30px;">
+								<div class="emphasis-title mb-0">
+									<h2 class="mb-5 fw-bold" style="max-width: 600px; font-size: 80px; font-family: 'Montserrat'; line-height: 1.2;">We Create<br>your Website</h2>
+
+									<p class="lead mt-4 d-none d-md-block" style="max-width: 600px; font-family: 'Poppins'; color: #999; font-size: 18px;">Competently reintermediate user friendly scenarios after global synergy. Globally build compelling niche markets rather than bricks-and-clicks alignments. Continually revolutionize interactive strategic theme.</p>
+								</div>
+							</div>
+						</div>
+						<div class="slide-number font-primary">O5</div>
+						<div class="swiper-slide-bg" style="background: #FFF url('demos/ecommerce/images/slider/5.jpg') no-repeat center right; background-size: auto 100%;"></div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container">
+							<div class="slider-caption" style="margin-top: -30px;">
+								<div class="emphasis-title mb-0">
+									<h2 class="mb-5 fw-bold" style="max-width: 600px; font-size: 80px; font-family: 'Montserrat'; line-height: 1.2;">We Create<br>your Home</h2>
+
+									<p class="lead mt-4 d-none d-md-block" style="max-width: 600px; font-family: 'Poppins'; color: #999; font-size: 18px;">Competently reintermediate user friendly scenarios after global synergy. Globally build compelling niche markets rather than bricks-and-clicks alignments. Continually revolutionize interactive strategic theme.</p>
+								</div>
+							</div>
+						</div>
+						<div class="slide-number font-primary">O6</div>
+						<div class="swiper-slide-bg" style="background: #FFF url('demos/ecommerce/images/slider/6.jpg') no-repeat center right; background-size: auto 100%;"></div>
+					</div>
+				</div>
+				<div class="slider-arrow-left"><i class="bi-arrow-left"></i></div>
+				<div class="slider-arrow-right"><i class="bi-arrow-right"></i></div>
+			</div>
+
+		</section> -->
+		<!-- #Slider End -->
+
+		<!-- Content
+		============================================= -->
+		<section id="content">
+			<div class="content-wrap py-0">
+
+				<div class="section mt-0"  style="padding: 100px 0;">
+					<div class="container">
+
+						<div class="row grid-item">
+							<div class="col-md-2 grid-image">
+								<img src="demos/ecommerce/images/categories/1.jpg" alt="Image 1">
+							</div>
+							<div class="col-md-2">
+								<div class="grid-info">
+									<h3><a href="#">Fresh Arrivals<span>Summer is Coming!</span></a></h3>
+									<a href="#" class="more-link">Shop Now</a>
+								</div>
+							</div>
+							<div class="col-md-2 grid-image">
+								<img src="demos/ecommerce/images/categories/2.jpg" alt="Image 1">
+							</div>
+							<div class="col-md-2">
+								<div class="grid-info">
+									<h3><a href="#">Acessories<span>Check out more Products for your Lifestyles</span></a></h3>
+									<a href="#" class="more-link">Know More</a>
+								</div>
+							</div>
+
+							<div class="col-md-2 grid-image">
+								<img src="demos/ecommerce/images/categories/3.jpg" alt="Image 1">
+							</div>
+							<div class="col-md-2">
+								<div class="grid-info">
+									<h3><a href="#">Our Store<span>Where we Manufacture!</span></a></h3>
+									<i class="uil uil-map-marker"></i> <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2233.681463596743!2d-3.19397378404521!3d55.954892680607855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78e1e83edab%3A0x627ac6bc4414f18b!2sGucci+-+Edinburgh+Harvey+Nichols+Women&#39;s!5e0!3m2!1sen!2sus!4v1489749205966" data-lightbox="iframe"  class="more-link">Find Store</a>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="container">
+
+					<div id="categories" class="heading-block border-bottom-0 text-center">
+						<h3>Popular Categories</h3>
+						<!-- <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit voluptas.</span> -->
+					</div>
+
+					<div class="row ecommerce-categories" style="padding: 20px 0 0;">
+						<!-- first row w/ 2 elements -->
+						<div class="col-lg-7">
+							<a href="#jewellery" style="background: url('demos/ecommerce/images/types/jewellery-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Jewellery</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-5">
+							<a href="#shirts" style="background: url('demos/ecommerce/images/types/shirts-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Shirts</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<!-- second row w/ 3 elements -->
+						<div class="col-lg-4">
+							<a href="#jeans" style="background: url('demos/ecommerce/images/types/jeans-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Jeans, shorst & trousers</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-4">
+							<a href="#suits" style="background: url('demos/ecommerce/images/types/suits-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Suits</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-4">
+							<a href="#tracksuits" style="background: url('demos/ecommerce/images/types/tracksuits-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Tracksuits</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<!-- third row w/ 2 elements -->
+						<div class="col-lg-5">
+							<a href="#sneakers" style="background: url('demos/ecommerce/images/types/sneakers-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Sneakers</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<div class="col-lg-7">
+							<a href="#slippers" style="background: url('demos/ecommerce/images/types/slippers-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Slippers</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<!-- fourth row w/ 3 elements -->
+						<div class="col-lg-4">
+							<a href="#caps" style="background: url('demos/ecommerce/images/types/caps-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Caps</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-4">
+							<a href="#gadges" style="background: url('demos/ecommerce/images/types/gadges-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Mobile gadges & more</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-4">
+							<a href="#parfume" style="background: url('demos/ecommerce/images/types/parfume-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Parfume</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<!-- fifth row w/ 2 elements -->
+						<div class="col-lg-5">
+							<a href="#watches" style="background: url('demos/ecommerce/images/types/watches-category.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Watches</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<div class="col-lg-7">
+							<a href="#others" style="background: url('demos/ecommerce/images/types/others.jpg') no-repeat center center; background-size: cover;">
+								<div class="vertical-middle dark text-center">
+									<div class="heading-block m-0 border-0">
+										<h3 class="text-capitalize font-secondary text-transform-none fw-medium">Others</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+
+					</div>
+				</div>
+
+
+				<!-- best selling products -->
+				<div class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Best Selling Products</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div> -->
+										<!-- <div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div> -->
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<!-- <h3>Leather Bag</h3> -->
+											<!-- <span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div> -->
+										<!-- <div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div> -->
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<!-- <h3>Black Bagpack</h3> -->
+											<!-- <span class="mt-0"><a href="#">College Backpack</a></span> -->
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div> -->
+										<!-- <div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div> -->
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<!-- <h3>Women Office Bag</h3> -->
+											<!-- <span class="mt-0"><a href="#">Hand Bag</a></span> -->
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="sale-flash badge bg-danger p-2">Sale!</div>
+										<!-- <div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div> -->
+										<!-- <div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div> -->
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<!-- <h3><a href="#">Men Black Bag</a></h3> -->
+											<!-- <span class="mt-0"><a href="#">Laptop Bag</a></span> -->
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+
+				<!-- single Categories -->
+
+				<!-- jewellery -->
+				<div id="jewellery" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Jewellery</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<img src="demos/ecommerce/images/items/jewellery/1.jpg" alt="Grey Bag">
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3>Gold Collier with Bracelet</h3>
+											<!-- <span class="mt-0">Gold Collier with Bracelet</span> -->
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<img src="demos/ecommerce/images/items/jewellery/2.jpg" alt="Grey Bag"></a>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3>Gold Set</h3>
+											<!-- <span class="mt-0"><a href="#">College Backpack</a></span> -->
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<img src="demos/ecommerce/images/items/jewellery/3.jpg" alt="Office Bag">
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3>Women Office Bag</h3>
+											<!-- <span class="mt-0"><a href="#">Hand Bag</a></span> -->
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<img src="demos/ecommerce/images/items/jewellery/4.jpg" alt="Men Bag">
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3>Silver Colliers</h3>
+											<!-- <span class="mt-0"><a href="#">Laptop Bag</a></span> -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>				
+
+				<!-- shirts -->
+				<div id="shirts" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Shirts</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- jeans, shorts & trousers -->
+				<div id="jeans" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Jeans, Shorts & Trousers</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- suits -->
+				<div id="suits" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Suits</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				
+				<!-- tracksuits -->
+				<div id="tracksuits" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Tracksuits</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- sneakers -->
+				<div id="sneakers" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Sneakers</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- slippers -->
+				<div id="slippers" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Slippers</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- caps -->
+				<div id="caps" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Caps</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- gadges, mobile & more -->
+				<div id="gadges" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Gadges, Mobile & More</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- parfume -->
+				<div id="parfume" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Parfume</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- watches -->
+				<div id="watches" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Watches</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- others -->
+				<div id="others" class="section"  style="padding: 80px 0;">
+					<div class="container">
+
+						<div class="heading-block border-bottom-0 text-center">
+							<h3>Jewellery</h3>
+						</div>
+
+						<div class="row">
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-2.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/1-3.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Leather Bag</a></h3>
+											<span class="mt-0"><a href="#">Grey Messenger Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;29.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-1.jpg" alt="Grey Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/4-2.jpg" alt="Grey Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Black Bagpack</a></h3>
+											<span class="mt-0"><a href="#">College Backpack</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;23.49</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-1.jpg" alt="Office Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/2-2.jpg" alt="Office Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Women Office Bag</a></h3>
+											<span class="mt-0"><a href="#">Hand Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span>&euro;11.99</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="w-100 mb-5 d-block d-md-none"></div>
+
+							<div class="col-lg-3 col-md-6">
+								<div class="portfolio-item">
+									<div class="portfolio-image">
+										<div class="fslider" data-pagi="false" data-animation="fade" data-slideshow="false">
+											<div class="flexslider">
+												<div class="slider-wrap">
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-1.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-2.jpg" alt="Men Bag"></a></div>
+													<div class="slide"><a href="#"><img src="demos/ecommerce/images/items/3-3.jpg" alt="Men Bag"></a></div>
+												</div>
+											</div>
+										</div>
+										<!-- <div class="sale-flash badge bg-danger p-2">Sale!</div> -->
+										<div class="product-cart"><a href="#"><i class="bi-cart"></i></a></div>
+										<div class="product-quickview"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Available Sizes: S | M | L"><i class="bi-info-circle"></i></a></div>
+									</div>
+									<div class="portfolio-desc pb-0-content-between">
+										<div>
+											<h3><a href="#">Men Black Bag</a></h3>
+											<span class="mt-0"><a href="#">Laptop Bag</a></span>
+											<!-- <div class="rating-stars">
+												<i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-fill"></i><i class="bi-star-half"></i>
+											</div> -->
+										</div>
+										<!-- <div class="item-price pt-1">
+											<span><del class="d-md-none d-lg-block">$45.99</del> &euro;39.00</span>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+
+				<!-- <div class="section bg-transparent">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-5">
+								<div id="oc-images" class="owl-carousel image-carousel carousel-widget custom-js">
+
+									<div class="oc-item">
+										<a href="#"><img src="demos/ecommerce/images/featured/1.jpg" alt="Image 1"></a>
+									</div>
+									<div class="oc-item">
+										<a href="#"><img src="demos/ecommerce/images/featured/2.jpg" alt="Image 2"></a>
+									</div>
+									<div class="oc-item">
+										<a href="#"><img src="demos/ecommerce/images/featured/3.jpg" alt="Image 3"></a>
+									</div>
+									<div class="oc-item">
+										<a href="#"><img src="demos/ecommerce/images/featured/4.jpg" alt="Image 4"></a>
+									</div>
+									<div class="oc-item">
+										<a href="#"><img src="demos/ecommerce/images/featured/5.jpg" alt="Image 5"></a>
+									</div>
+									<div class="oc-item">
+										<a href="#"><img src="demos/ecommerce/images/featured/6.jpg" alt="Image 6"></a>
+									</div>
+
+								</div>
+							</div>
+							<div class="col-lg-5 offset-lg-1">
+								<div class="featured-item mt-5">
+									<div class="item-title">
+										<div class="before-heading fw-semibold ls-5"><a href="#" style="color: #aab7bd !important;">Leather Bags <i class="uil uil-angle-right-b"></i></a></div>
+										<h3><a href="#">Lady Shoulder Bag.</a></h3>
+									</div>
+									<div class="item-meta font-secondary">
+										SKU: 8465415.
+										Design: Leather / Blue
+									</div>
+									<div class="clear"></div>
+									<div class="item-desc">
+										<p>Proactively empower highly efficient growth strategies Completely enhance inexpensive best practices before front-end content. Completely procrastinate innovative vortals through maintainable leadership skills. Continually foster business sources for viral leadership skills.</p>
+									</div>
+									<div class="item-color mb-4">
+										<span>Available Colors:</span>
+										<div id="item-color-dots" class="owl-dots"></div>
+									</div>
+									<div class="button button-border button-circle m-0 font-secondary">View Details</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> -->
+
+				<!-- <div class="clear"></div> -->
+
+				<!-- <div class="row align-items-stretch mb-5">
+					<div class="col-md-6" style="background: url('demos/ecommerce/images/sections/1.jpg') center 45% no-repeat; background-size: cover; padding: 0 0 500px;">
+						<div class="section-content mt-4">
+							<h3>Travel Bags for Men</h3>
+							<span class="font-primary">Designed to help you never make your bed again. Superior materials for comfort and lasting quality in a complete bedding package.</span>
+							<a class="more-link text-uppercase fw-medium" style="font-family: 'Montserrat';">Go To Shop <i class="bi-arrow-right"></i></a>
+						</div>
+					</div>
+					<div class="col-md-6" style="background: url('demos/ecommerce/images/sections/3.jpg') center center no-repeat; background-size: cover; padding: 0 0 500px;">
+						<div class="section-content mt-4">
+							<h3>Luxury Bags for Women</h3>
+							<span class="font-primary">Globally monetize unique metrics and enterprise markets. Efficiently implement cooperative e-services and integrated interfaces.</span>
+							<a class="more-link text-uppercase fw-medium" style="font-family: 'Montserrat';">Go To Shop <i class="bi-arrow-right"></i></a>
+						</div>
+					</div>
+				</div> -->
+
+				<div class="clear"></div>
+
+<!-- 
+				<div class="container mt-5">
+					<div class="heading-block border-bottom-0 mb-5 text-center">
+						<h3 style="font-size: 20px;">Shop By Categories</h3>
+						<span>Lorem ipsum dolor sit amet, consectetur adipisicing<br>elit voluptas.</span>
+					</div>
+
+					<div class="row col-mb-50">
+						<div class="col-lg-2 col-md-4 col-6 offset-lg-1">
+							<div class="feature-box fbox-center">
+								<div class="fbox-content">
+									<div class="before-heading ls-2">0mm - 31mm</div>
+									<h3 class="fw-normal ls-1">Laptop</h3>
+								</div>
+								<div class="fbox-image imagescalein">
+									<a href="#"><img src="demos/ecommerce/images/icons/2.png" alt="Image"></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-4 col-6">
+							<div class="feature-box fbox-center">
+								<div class="fbox-content">
+									<div class="before-heading ls-2">0mm - 31mm</div>
+									<h3 class="fw-normal ls-1">Hand Bag</h3>
+								</div>
+								<div class="fbox-image imagescalein">
+									<a href="#"><img src="demos/ecommerce/images/icons/3.png" alt="Image"></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-4 col-6">
+							<div class="feature-box fbox-center">
+								<div class="fbox-content">
+									<div class="before-heading ls-2">0mm - 31mm</div>
+									<h3 class="fw-normal ls-1">Backpack</h3>
+								</div>
+								<div class="fbox-image imagescalein">
+									<a href="#"><img src="demos/ecommerce/images/icons/4.png" alt="Image"></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-4 col-6">
+							<div class="feature-box fbox-center">
+								<div class="fbox-content">
+									<div class="before-heading ls-2">0mm - 31mm</div>
+									<h3 class="fw-normal ls-1">Duffle</h3>
+								</div>
+								<div class="fbox-image imagescalein">
+									<a href="#"><img src="demos/ecommerce/images/icons/5.png" alt="Image"></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-4 col-6">
+							<div class="feature-box fbox-center">
+								<div class="fbox-content">
+									<div class="before-heading ls-2">0mm - 31mm</div>
+									<h3 class="fw-normal ls-1">Trolley</h3>
+								</div>
+								<div class="fbox-image imagescalein">
+									<a href="#"><img src="demos/ecommerce/images/icons/6.png" alt="Image"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> -->
+
+
+				<!-- <div class="section dark mb-0">
+					<div class="container">
+
+						<div class="row payments-info">
+							<div class="col-lg-6">
+								<p class="lead m-0">Free Shipping on Orders of <strong>$199</strong> or above.</p>
+							</div>
+							<div class="col-lg-6">
+								<ul class="payment-cards" style="margin-top: 5px;">
+									<li><img src="demos/xmas/images/cards/visa.svg" alt="Visa"></li>
+									<li><img src="demos/xmas/images/cards/mc.svg" alt="Master Card"></li>
+									<li><img src="demos/xmas/images/cards/ae.svg" alt="American Express"></li>
+									<li><img src="demos/xmas/images/cards/pp.svg" alt="PayPal"></li>
+									<li><img src="demos/xmas/images/cards/sk.svg" alt="Skrill"></li>
+									<li><img src="demos/xmas/images/cards/2co.svg" alt="2CheckOut"></li>
+									<li><img src="demos/xmas/images/cards/wu.svg" alt="Western Union"></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div> -->
+			</div>
+		</section><!-- #content end -->
+
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="border-0 bg-transparent">
+
+			<div class="container">
+
+				<!-- Footer Widgets
+				============================================= -->
+				<div class="footer-widgets-wrap"  style="padding: 60px 0 100px;">
+
+					<div class="row">
+						<div class="col-lg-6 col-md-6">
+
+							<div class="row">
+								<div class="col-lg-6">
+									<div class="widget widget_links widget-li-noicon">
+										<h4>Hire</h4>
+										<ul>
+											<li><a href="#">Documentation</a></li>
+											<li><a href="#">Feedback</a></li>
+											<li><a href="#">Plugins</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="widget widget_links widget-li-noicon">
+										<h4>Community</h4>
+										<ul>
+											<li><a href="#">Documentation</a></li>
+											<li><a href="#">Feedback</a></li>
+											<li><a href="#">Plugins</a></li>
+											<li><a href="#">Support Forums</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="clear"></div>
+
+							<div class="line line-sm"></div>
+
+							<div class="copy-link"><a href="mailto:info@osiki-collections.com"><i class="bi-envelope"></i>  info@osiki-collectionscom</a> <span class="middot"> | </span> <a href="tel:+233-53-279-3039"><i class="fa-solid fa-phone"></i> +233-53-279-3039</a></div>
+
+						</div>
+
+						<div class="col-lg-5 offset-lg-1">
+
+							<div class="widget">
+								<h4>Connect Socially</h4>
+
+								<div class="mb-4">
+									<a href="#" class="social-icon bg-dark si-mini border-0 rounded-circle h-bg-facebook" title="Facebook">
+										<i class="fa-brands fa-facebook-f"></i>
+										<i class="fa-brands fa-facebook-f"></i>
+									</a>
+
+									<a href="#" class="social-icon bg-dark si-mini border-0 rounded-circle h-bg-twitter" title="Twitter">
+										<i class="fa-brands fa-twitter"></i>
+										<i class="fa-brands fa-twitter"></i>
+									</a>
+
+									<a href="#" class="social-icon bg-dark si-mini border-0 rounded-circle h-bg-instagram" title="Instagram">
+										<i class="bi-instagram"></i>
+										<i class="bi-instagram"></i>
+									</a>
+
+									<a href="#" class="social-icon bg-dark si-mini border-0 rounded-circle h-bg-pinterest" title="Pinterest">
+										<i class="fa-brands fa-pinterest-p"></i>
+										<i class="fa-brands fa-pinterest-p"></i>
+									</a>
+
+									<a href="#" class="social-icon bg-dark si-mini border-0 rounded-circle h-bg-vimeo" title="Vimeo">
+										<i class="fa-brands fa-vimeo-v"></i>
+										<i class="fa-brands fa-vimeo-v"></i>
+									</a>
+								</div>
+							</div>
+
+
+
+
+							<!-- <div class="widget subscribe-widget mt-0">
+								<h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
+								<div class="widget-subscribe-form-result"></div>
+								<form id="widget-subscribe-form" action="include/subscribe.php" method="post" class="mb-0">
+									<div class="input-group input-group-lg mx-auto">
+										<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email">
+										<button class="button button-black fw-light button-dark ls-2 text-uppercase" type="submit">Subscribe</button>
+									</div>
+								</form>
+							</div> -->
+
+						</div>
+					</div>
+
+				</div><!-- .footer-widgets-wrap end -->
+
+			</div>
+
+		</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="bi-arrow-up"></div>
+
+	<!-- JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+	<script src="js/functions.js"></script>
+
+	<!-- <script>
+
+		// Topbar Hide
+		jQuery('#top-bar').on('click','#close-bar',function(){
+			jQuery(this).parents('#top-bar').slideUp(300);
+			jQuery('body').css('padding-top',0);
+		})
+
+		jQuery(window).on( 'pluginCarouselReady', function(){
+			// Custom Carousel
+			jQuery('.owl-carousel').owlCarousel({
+				items: 1,
+				dotsContainer: '#item-color-dots',
+			    loop: true,
+			});
+		});
+	</script> -->
+
+	<!-- SLIDER REVOLUTION EXTENSIONS  -->
+	<script src="include/rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.carousel.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.kenburn.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.migration.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.navigation.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.parallax.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.slideanims.min.js"></script>
+	<script src="include/rs-plugin/js/extensions/revolution.extension.video.min.js"></script>
+
+	<!-- ADD-ONS JS FILES -->
+	<script>
+		var revapi225,
+			tpj;
+
+		(function() {
+			if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();
+
+			function onLoad() {
+				if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+
+				if(tpj("#rev_slider_225_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_225_1");
+				}else{
+					revapi225 = tpj("#rev_slider_225_1").show().revolution({
+						sliderType:"standard",
+						jsFileLocation:"/include/rs-plugin/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+							 mouseScrollReverse:"default",
+							onHoverStop:"off",
+							arrows: {
+								style:"uranus",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"light-bars",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:30,
+								space:10,
+								tmp:''
+							}
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1240,1024,778,480],
+						gridheight:[800,800,800,800],
+						lazyType:"none",
+						parallax: {
+							type:"scroll",
+							origo:"slidercenter",
+							speed:1000,
+						  speedbg:0,
+						  speedls:0,
+							levels:[2,4,6,8,10,12,14,40,45,-5,-10,-15,-20,50,51,55],
+						},
+						shadow:0,
+						spinner:"spinner3",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				} /* END OF revapi call */
+
+				BubbleMorphAddOn(jQuery, revapi225, false);
+
+				if(typeof ExplodingLayersAddOn !== "undefined") ExplodingLayersAddOn(tpj, revapi225);
+
+			} /* END OF ON LOAD FUNCTION */
+		}()); /* END OF WRAPPING FUNCTION */
+	</script>
+
+</body>
+</html>
